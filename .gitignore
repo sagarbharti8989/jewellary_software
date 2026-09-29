@@ -1,0 +1,9 @@
+node_modules
+
+.next/
+
+# Keep environment files and secrets out of the new repository.
+.env*
+!.env.example
+!.env.sample
+!.env.template
